@@ -2,9 +2,7 @@
 
 A full-stack customer voting platform built with **Next.js 14**, **Tailwind CSS**, and **Supabase**. Features a live leaderboard, responsive product grid, real-time vote counts, and IP-based rate limiting.
 
----
-
-## ✨ Features
+*Feature
 
 - **Live Leaderboard** — Products ranked by vote count, auto-refreshes every 30 seconds
 - **Responsive Product Grid** — Works beautifully on mobile, tablet, and desktop
@@ -15,7 +13,7 @@ A full-stack customer voting platform built with **Next.js 14**, **Tailwind CSS*
 
 ---
 
-## 🚀 Deployment Guide
+*Deployment Guide
 
 ### Step 1 — Set up Supabase
 
